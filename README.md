@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp2everything-mcp2serial-badge.png)](https://mseep.ai/app/mcp2everything-mcp2serial)
+
 # MCP2Serial: 连接物理世界与AI大模型的桥梁 
 
 [English](README_EN.md) | 简体中文
